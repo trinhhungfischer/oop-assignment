@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Storage>
+  <Book id="1" title="The Study in Scarlet" category="Detective" author=" Conan Doyle" cost="100"></Book>
+  <Book id="2" title="The Hound of the Baskervile" category="Detective" author=" Conan Doyle" cost="120.5"></Book>
+  <Book id="3" title="The Sign of the Four" category="Detective" author=" Conan Doyle" cost="110.5"></Book>
+  <DVD id="4" title="The Lion King" category="Animation" director="Roger Allers" length="87" cost="19"></DVD>
+  <DVD id="5" title="Star War" category="Science Fiction" director="Geogre Lucas" length="124" cost="24"></DVD>
+  <DVD id="6" title="Aladin" category="Animation" director="John Musker" length="90" cost="18.5"></DVD>
+  <DVD id="7" title="Alachoke" category="Animation" director="Trinh Hung" length="1000" cost="9999.9"></DVD>
+  <Track id="8" title="Therefore I am" length="3" />
+</Storage>
